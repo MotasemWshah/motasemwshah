@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Motasem Wshah</h1>
+<h1 align="center">Hi 👋, I'm Motasem Wshah , I'm a Student At University of Jordan</h1>
 <h3 align="center">A Passionate Full Stack developer From Jordan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=motasemwshah&label=Profile%20views&color=0e75b6&style=flat" alt="motasemwshah" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=motasemwshah" alt="motasemwshah" /></a> </p>
 
-<p><img align="right" src="https://github.com/MotasemWshah/motasemwshah/main/animation_500_kxa883sd.gif" alt="motasem" /></p>
+
+<p><img align="right" src="https://github.com/MotasemWshah/motasemwshah/blob/main/animation_500_kxa883sd.gif" alt="motasem" /></p>
 
 - 🌱 I’m currently learning **Angular**
 
